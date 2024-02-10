@@ -1,2 +1,2 @@
 # Cognifyz
-   *Customer Prefence Analysis
+Customer Prefence Analysis
