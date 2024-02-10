@@ -1,3 +1,3 @@
 # Cognifyz
-Customer Prefence Analysis
-Data Visualization
+    *Customer Prefence Analysis
+    *Data Visualization
