@@ -1,5 +1,5 @@
 # Cognifyz
-    Customer Prefence Analysis
+    Customer Preference Analysis
     Data Visualization
     Predictive Modeling
     Price Range Analysis
